@@ -18,7 +18,7 @@ SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
 -- ----------------------------
--- Table structure for alipay_config
+-- lml Table structure for alipay_config
 -- ----------------------------
 DROP TABLE IF EXISTS `alipay_config`;
 CREATE TABLE `alipay_config` (
